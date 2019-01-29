@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saifeddine/CLionProjects/conditionals-arrays-vectors-Strings-loops/main.cpp
+iostream
+-
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+limits
+-
+

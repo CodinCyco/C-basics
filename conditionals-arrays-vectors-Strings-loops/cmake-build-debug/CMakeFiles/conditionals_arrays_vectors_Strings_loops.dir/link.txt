@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/conditionals_arrays_vectors_Strings_loops.dir/main.cpp.o  -o conditionals_arrays_vectors_Strings_loops 

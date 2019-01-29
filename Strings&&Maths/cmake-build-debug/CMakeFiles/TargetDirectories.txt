@@ -1,0 +1,3 @@
+/home/saifeddine/CLionProjects/Strings&&Maths/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/saifeddine/CLionProjects/Strings&&Maths/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saifeddine/CLionProjects/Strings&&Maths/cmake-build-debug/CMakeFiles/Strings__Maths.dir
